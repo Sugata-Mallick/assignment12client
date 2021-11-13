@@ -32,7 +32,7 @@ const ManageServices = ({ order }) => {
         }
     return (
         <div className=" pb-3">
-            <img width="15%" src={img} alt="" />
+            <img className="25" src={img} alt="" />
             <h6>{name}</h6>
             <h6>{email}</h6>
             <h6>price: {price}</h6>

@@ -11,9 +11,9 @@ const Explore = ({explore} ) => {
 
             <img className="w-75" src={img} alt="" />
             <h3>{name}</h3>
-            <h5>price: {price}</h5>
+            <h5>price:${price}</h5>
             <p>{desciption}</p>
-            <Link to={`/addModel/${_id}`}>
+            <Link to={`/purchase/${_id}`}>
             <button className="btn btn-warning">Purchase</button>
             </Link>
         </div>

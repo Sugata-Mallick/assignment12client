@@ -41,7 +41,7 @@ history.push('/addService')
                 <br />
                 <input className=" border border-3 border-info p-2"  {...register("email")} placeholder="email" />
                 <br />
-                <input className=" border border-3 border-info p-2" {...register("address")} placeholder="address" />
+                <input className=" border border-3 border-info p-2" {...register("desciption")} placeholder="desciption" />
                 <br />
                 <input className=" border border-3 border-info p-2" type="number" {...register("price")} placeholder="price" />
                 <br />

@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const AddServices = ({ order }) => {
     // const {service} = props;
-    const { _id, email,name, price, address, img } = order;
+    const { _id, email,name, price, desciption, img } = order;
 
     //         const [orders, setOrders]=useState([])
     
@@ -31,11 +31,11 @@ const AddServices = ({ order }) => {
     //     }
     return (
         <div className=" pb-3">
-            <img width="15%" src={img} alt="" />
+            <img className="w-25" src={img} alt="" />
             <h6>{name}</h6>
             <h6>{email}</h6>
-            <h6>price: {price}</h6>
-            <h6 className="px-3">{address}</h6>
+            <h6>price:${price}</h6>
+            <h6 className="px-3">{desciption}</h6>
             <Link to={`/addService/${_id}`}>
             {/* <button onClick={() => handleDelete(order._id)}>DELETE</button> */}
             </Link>

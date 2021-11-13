@@ -19,6 +19,7 @@ import Review from './Pages/Home/Review/Review';
 import Reviews from './Pages/Home/Review/Reviews';
 import AddModel from './Explore/AddModel';
 import Registrasion from './Pages/Login/Login/Registrasion';
+import MakeAdmin from './hooks/MakeAdmin/MakeAdmin';
 
 
 
@@ -66,7 +67,7 @@ function App() {
     <Pay></Pay>
   </PrivateRoute>
  
-  
+ 
 
 
   <PrivateRoute  path="/review">
