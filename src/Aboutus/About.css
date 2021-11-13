@@ -1,0 +1,16 @@
+.half-width{
+    width:50%;
+    padding-left:2%;
+
+}
+.About-Me{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.cart-details{
+    display:flex;
+    margin-bottom:100px;
+    padding-left:10%;
+    background-color: antiquewhite;
+}

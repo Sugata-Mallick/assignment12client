@@ -1,0 +1,76 @@
+[
+    {
+      "id":1,
+      "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/large-9291-mclarensennaglobaltestdrive-purewhite-1530284615.jpg ",
+      "name":"Suzuki ",
+      "price":" $25000",
+      "desciption":"Suzuki manufactures automobiles, four-wheel drive vehicles, motorcycles,outboard marine engines."
+    },
+    {
+      "id":2,
+      "img":"https://thumbor.forbes.com/thumbor/trim/836x799:5396x3364/fit-in/711x399/smart/https://specials-images.forbesimg.com/imageserve/5d3703e2f1176b00089761a6/2020-Chevrolet-Corvette-Stingray/0x0.jpg ",
+      "name":" BMW",
+      "price":" $80000",
+      "desciption":", BMW restarted motorcycle production. BMW resumed car production,Spartanburg plant is the BMW Group."
+    },
+     {
+      "id":3,
+      "img":"https://cdn.luxe.digital/media/2020/12/15110730/fastest-cars-world-2021-hennessey-venom-GT-luxe-digital%402x.jpg ",
+      "name":"CHERY ",
+      "price":" $45000",
+      "desciption":"Chery's principal products are passenger cars, minivans, and SUVs; it sells passenger cars under the Chery."
+    },
+    {
+      "id":4,
+      "img":"https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y2Fyc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80 ",
+      "name":"TOYOTA ",
+      "price":" $30000",
+      "desciption":" Toyota cars and Toyota car models. From the newest Toyota cars to Toyota car classics."
+    },
+    {
+      "id":5,
+      "img":" https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-audi-rs7-112-1569274021.jpg?crop=0.735xw:0.673xh;0.141xw,0.270xh&resize=480:*",
+      "name":"NISSAN ",
+      "price":" $25000",
+      "desciption":"Nissan produced its first cars at the flagship Nishi-ku, Yokohama headquarters in 1935. Nissan showcased. "
+    },
+    {
+      "id":6,
+      "img":" https://cdn.motor1.com/images/mgl/nRRyo/s3/tesla-vehicles.webp",
+      "name":"TESLA ",
+      "price":" $75000",
+      "desciption":"Tesla was founded in 2003 by a group of engineers who wanted to prove that people didn't need to compromise to drive electric"
+    },
+    {
+        "id":7,
+        "img":"https://i.ytimg.com/vi/dip_8dmrcaU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDiKVLpV-DNq4PXYr2jNBL2mt4bqg",
+        "name":"FORD",
+        "price":" $66000",
+        "desciption":"Ford Motor Company is an automobile company that designs, manufactures, markets, and services a full line of Ford trucks. "
+      },
+      {
+        "id":8,
+        "img":"https://stimg.cardekho.com/images/carexteriorimages/630x420/Lamborghini/Urus/4418/Lamborghini-Urus-V8/1621927166506/front-left-side-47.jpg?tr=w-150",
+        "name":"LAMBORGHINI",
+        "price":" $90000",
+        "desciption":"Lamborghini hopes to signal a shift in the company's direction from making super cars focused on top speed to producing. "
+      },
+      {
+        "id":9,
+        "img":"https://cdn.luxe.digital/media/2021/04/10100706/best-luxury-car-brand-Mercedes-Benz-luxe-digital%402x.jpg",
+        "name":"MERCEDES",
+        "price":" $70000",
+        "desciption":"Mercedes-Benz commonly referred to as Mercedes, is a German luxury automotive marque. Mercedes-Benz and subsidiary Mercedes-Benz . "
+      },
+      {
+        "id":10,
+        "img":"https://www.audiworld.com/wp-content/uploads/2020/09/R8-V10.jpg",
+        "name":"AUDI ",
+        "price":" $60000",
+        "desciption":"Audi vehicles are renowned for a design as beautiful and unique on the inside as they are on the outside. "
+      }
+
+  
+  ]
+  
+  
